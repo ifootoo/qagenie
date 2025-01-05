@@ -22,7 +22,7 @@ sudo systemctl status docker
 ## Deployment
 
 ```bash
-cd onekey-dify
+cd qagenie
 sudo docker compose up -d
 ```
 
@@ -40,4 +40,4 @@ hello@ifootoo.com / admin  /  QA123456
 you can modify the account information in the `setup.sh` file.
 
 # How to use
-Use your browser to visit http://localhost:3000 to start using.
+Use your browser to visit http://localhost to start using.

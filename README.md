@@ -34,15 +34,19 @@ sh setup.sh
 ```
 
 * Step 4: 
-visit the website http://localhost:3000 to start using qagenie lite.
+visit the website 
+```
+http://localhost
+```
+to start using qagenie lite.
 
-## More Information about Installation
-Please refer to the [deploy.md](deploy.md) file and [中文安装.md](deploy_cn.md) file.
+## More Information about Deployment
+Please refer to the [deploy.md](deploy.md) file and [中文部署](deploy_cn.md) file.
 
 # Professional Version
 If you want to use professional version, please contact us.
 
-# Contact
-hello@ifootoo.com
+## Contact
+* hello@ifootoo.com
 or 
-footootech@gmail.com
+* footootech@gmail.com

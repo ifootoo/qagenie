@@ -31,4 +31,4 @@ hello@ifootoo.com / admin  /  QA123456
 你可以根据需要修改 `setup.sh` 文件。
 
 # 使用
-使用浏览器访问 http://localhost:3000 开始使用。
+使用浏览器访问 http://localhost 开始使用。
