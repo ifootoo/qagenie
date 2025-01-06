@@ -24,7 +24,7 @@ git clone https://github.com/ifootoo/qagenie.git
 ```bash 
 cd qagenie
 # use docker-compose to start dify and ollama
-docker-compose up -d
+sudo docker compose up -d
 ```
 
 * Step 3: 
@@ -41,7 +41,7 @@ http://localhost
 to start using qagenie lite.
 
 ## More Information about Deployment
-Please refer to the [deploy.md](deploy.md) file and [中文部署](deploy_cn.md) file.
+Please refer to the [deploy.md](deploy.md) file and [中文部署.md](deploy_cn.md) file.
 
 # Professional Version
 If you want to use professional version, please contact us.
