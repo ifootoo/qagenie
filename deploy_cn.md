@@ -13,6 +13,11 @@ sudo systemctl status docker
 ```
 
 # 一键部署
+## 下载
+```
+git clone https://github.com/ifootoo/qagenie.git
+```
+
 ## 启动docker
 ```bash
 cd qagenie
